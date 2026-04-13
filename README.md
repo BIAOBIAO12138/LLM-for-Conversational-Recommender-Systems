@@ -1,4 +1,4 @@
-# Large Language Models for Conversational Recommender Systems
+# Large Language Models for Conversational Recommender Systems: A Survey
 
 A curated repository for our survey on **LLM-based conversational recommender systems (CRS)**.
 
